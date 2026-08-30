@@ -20,11 +20,11 @@ The (i)Pad is a Macropad built for productivity work. It was designed by me and 
 The keyboard will run on QMK firmware. It may be updated in the future (Once I get the parts).
 
 ## The Shell:
- ![The Fusion file](Assets/Screenshot%202026-06-14%20135211.png)
+ ![CAD Design](Assets/HackpadCAD.png)
 
 ## The PCB:
- ![Schematic](Assets/Screenshot%202026-06-14%20132823.png)
- ![The PCB](Assets/Screenshot%202026-06-18%20135011.png)
+ ![Schematic](Assets/HackpadSchematic.png)
+ ![The PCB](Assets/HackpadPCB.png)
 
 ## The Production files:
 [(i)Pad production files](Production)
