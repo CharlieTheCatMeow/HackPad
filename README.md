@@ -23,8 +23,8 @@ The keyboard will run on QMK firmware. It may be updated in the future (Once I g
  ![CAD Design](Assets/HackpadCAD.png)
 
 ## The PCB:
- ![Schematic](Assets/HackpadSchematic.png)
- ![The PCB](Assets/HackpadPCB.png)
+ ![Schematic](Assets/HackPadSchematic.png)
+ ![The PCB](Assets/HackPadPCB.png)
 
 ## The Production files:
 [(i)Pad production files](Production)
