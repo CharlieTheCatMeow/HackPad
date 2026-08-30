@@ -19,6 +19,9 @@ The (i)Pad is a Macropad built for productivity work. It was designed by me and 
 ## Firmware:
 The keyboard will run on QMK firmware. It may be updated in the future (Once I get the parts).
 
+## The finished product:
+ ![Hackpad](Assets/HackpadIRL.jpeg)
+
 ## The Shell:
  ![CAD Design](Assets/HackpadCAD.png)
 
