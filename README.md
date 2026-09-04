@@ -2,7 +2,7 @@
  ~~Trying to create a Hackpad.
  I'm new to this, so I'm just trying things out at this stage.~~ <br>
  I created a Macropad. I figured it out :D <br>
- **I have completed the final version (v3). Please ignore the other versions.**
+ 
 
 ## What is the (i)Pad?
 The (i)Pad is a Macropad built for productivity work. It was designed by me and 13 hours of my time. It runs on QMK firmware.
@@ -12,12 +12,10 @@ The (i)Pad is a Macropad built for productivity work. It was designed by me and 
 - one rotary encoder
 - one OLED display
 - 6 LEDs
-- updated the shell
-
-(I may have to update the firmware once I get my hands on the physical keyboard)
 
 ## Firmware:
-The keyboard will run on QMK firmware. It may be updated in the future (Once I get the parts).
+The keyboard runs on QMK firmware. There are 4 layers in total. The layer is visible on the OLED screen. There is also a layer indicator on the first LED, it changes color. The other 5 LED's play a little animation when you click the keys. 
+Everything should work as expected. 
 
 ## The finished product:
  ![Hackpad](Assets/HackpadIRL.jpeg)
@@ -32,11 +30,12 @@ The keyboard will run on QMK firmware. It may be updated in the future (Once I g
 ## The Production files:
 [(i)Pad production files](Production)
 
-## This project took me around 13 hours and I'm glad it's (hopefully) done
+## This project took me around 20 hours and I'm glad it's (hopefully) done
 I chose this project as a kind of first step into electronics and CAD.
 I learned how to use KiCAD and create firmware and got better at Fusion. 
+Soldering wasn't as difficult as I thought it would be. The firmware was a bit hard to set up, but it works.
 Overall a great project and I'm fairly happy with the result.
-All that's left is to hopefully get this approved so I can get the parts to ship it. 
+
 
 
 ## BOM:
@@ -51,4 +50,4 @@ All that's left is to hopefully get this approved so I can get the parts to ship
 - 9x Diode
 
 **Credits:**
- Used AI for basic questions about software and hardware
+ Used AI for basic questions about the firmware and hardware
